@@ -1,4 +1,4 @@
-const assert = require("assert").strict;
+var assert = require("assert").strict;
 
 function sum(a, b) {
     return a + b;
